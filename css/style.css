@@ -50,6 +50,10 @@ img.svg{
 	height: 15px;
 }
 
+.logo img{
+width: 140px;
+}
+
 .btn-submit{
 	color: #fff;
 background-color: #49beb7;
